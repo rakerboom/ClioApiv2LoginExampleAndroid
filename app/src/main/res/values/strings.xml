@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClioApiv2LoginExampleAndroid</string>
+    <string name="missing_key_secret">Missing CLIENT_ID and/or CLIENT_SECRET. Visit the developer portal at https://app.clio.com/settings/developer_applications. Click the Add button to create a new application. Enter details about your application. These details will be shown to Clio users when they’re asked to authorize your application. Add the key and secret to authorize your application with Clio</string>
+</resources>
